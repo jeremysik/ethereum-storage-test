@@ -16,7 +16,7 @@ I have already deployed the StorageTest contract to Ropsten. If you just want to
 ### Get Value of Storage Slot
 `await ethers.provider.getStorageAt(contractAddress, slot);`
 
-*Examples*
+#### Examples
 
 Get value at storage slot 0:
 
@@ -30,7 +30,7 @@ Get value at storage slot 0x036b6384b5eca791c62761152d0c79bb0604c104a5fb6f4eb070
 
 `ethers.utils.keccak256(toHash);`
 
-*Examples*
+#### Examples
 
 Find storage slot for first element of dynamic array 'h', where it's storage slot is 5:
 
