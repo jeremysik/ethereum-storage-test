@@ -2,6 +2,8 @@
 
 This project demonstrates how the Ethereum Virtual Machine (EVM) stores smart contract data.
 
+For a quick explaination, read [this Twitter thread](https://twitter.com/JeremySik/status/1526502826590932992?s=20&t=Gb7Ig6phJQbQbUpAF4s4bg).
+
 ## Setup
 I have already deployed the StorageTest contract to Ropsten. If you just want to use that contract, skip to step (5).
 1. Install packages: `npm install`
